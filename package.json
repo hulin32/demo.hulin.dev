@@ -3,28 +3,32 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbo",
+    "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
     "clsx": "^2.1.1",
-    "next": "14.2.7",
-    "react": "^18",
-    "react-dom": "^18",
-    "tailwind-merge": "^2.5.2"
+    "next": "15.0.3",
+    "react": "19.0.0-rc-66855b96-20241106",
+    "react-dom": "19.0.0-rc-66855b96-20241106",
+    "tailwind-merge": "^2.5.4"
   },
   "devDependencies": {
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "eslint": "^8",
-    "eslint-config-next": "14.2.7",
+    "@types/node": "^22",
+    "@types/react": "npm:types-react@19.0.0-alpha.3",
+    "@types/react-dom": "npm:types-react-dom@19.0.0-alpha.3",
+    "eslint": "^9",
+    "eslint-config-next": "15.0.3",
     "postcss": "^8",
     "prettier": "^3.3.3",
-    "prettier-plugin-tailwindcss": "^0.6.6",
-    "tailwindcss": "^3.4.1",
+    "prettier-plugin-tailwindcss": "^0.6.9",
+    "tailwindcss": "^3.4.15",
     "typescript": "^5"
+  },
+  "overrides": {
+    "@types/react": "npm:types-react@19.0.0-alpha.3",
+    "@types/react-dom": "npm:types-react-dom@19.0.0-alpha.3"
   }
 }

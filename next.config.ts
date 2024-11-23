@@ -5,6 +5,9 @@ const nextConfig: NextConfig = {
   experimental: {
     reactCompiler: true,
   },
+  experimental: {
+    after: true,
+  },
 };
 
 export default nextConfig;

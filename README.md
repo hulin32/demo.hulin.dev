@@ -1,8 +1,8 @@
 # Demo Projects
 
-[![CI](https://github.com/username/demo.hulin.dev/actions/workflows/ci.yml/badge.svg)](https://github.com/username/demo.hulin.dev/actions/workflows/ci.yml)
-[![Build](https://github.com/username/demo.hulin.dev/actions/workflows/build.yml/badge.svg)](https://github.com/username/demo.hulin.dev/actions/workflows/build.yml)
-[![codecov](https://codecov.io/gh/username/demo.hulin.dev/branch/main/graph/badge.svg)](https://codecov.io/gh/username/demo.hulin.dev)
+[![CI](https://github.com/hulin32/demo.hulin.dev/actions/workflows/ci.yml/badge.svg)](https://github.com/hulin32/demo.hulin.dev/actions/workflows/ci.yml)
+[![Build](https://github.com/hulin32/demo.hulin.dev/actions/workflows/build.yml/badge.svg)](https://github.com/hulin32/demo.hulin.dev/actions/workflows/build.yml)
+[![codecov](https://codecov.io/gh/hulin32/demo.hulin.dev/branch/main/graph/badge.svg)](https://codecov.io/gh/hulin32/demo.hulin.dev)
 
 ## Testing
 

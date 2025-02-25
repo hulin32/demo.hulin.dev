@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { unstable_after as after } from 'next/server';
+import { after } from 'next/server';
 import { Inter } from 'next/font/google';
 import './globals.css';
 

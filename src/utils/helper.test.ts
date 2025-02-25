@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { hello } from '../helper';
+import { hello } from './helper';
 
 describe('helper', () => {
   describe('hello', () => {
